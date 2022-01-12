@@ -8,6 +8,6 @@
   },
   "entrypoints": [
     "static/css/main.f528ce7a.css",
-    "static/js/main.92183c8e.js"
+    "./static/js/main.92183c8e.js"
   ]
 }
